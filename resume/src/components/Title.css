@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "rockwell";
+  src: url("../fonts/rockwell.otf") format(opentype);
+}
+
+* {
+  font-family: rockwell;
+  font-size: 35px;
+  font-weight: 1;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  flex-flow: column;
+  width: 60%;
+  height: 200px;
+  background-color: #999999;
+  color: #fff;
+}
+
