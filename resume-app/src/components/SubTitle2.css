@@ -1,0 +1,12 @@
+.subTitile2-container{
+    height: 60px;
+    display: flex;
+    align-items: center;
+    background-color: #999999;
+    color: #fff;
+
+}
+
+h2{
+    margin-left: 20px;
+}

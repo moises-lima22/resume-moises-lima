@@ -1,0 +1,6 @@
+.app-container{
+    display: grid;
+    grid-template-columns: 60% 40%;
+    grid-template-rows: 2fr 4fr;
+    
+}

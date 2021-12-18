@@ -30,13 +30,8 @@ ol, ul {
 
 
 
-*{
+body{
   max-width: 2480px;
   max-height: 3508px;
 }
 
-.app-container{
-    display: grid;
-    grid-area: 60% auto;
-    
-}

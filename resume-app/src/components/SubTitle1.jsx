@@ -1,10 +1,10 @@
 import React from "react";
-import "./subTitle.css";
+import "./SubTitle1.css";
 
     const SubTitle1 = ({text}) => {
     return ( 
-        <div>
-            <h2>{text}</h2>
+        <div className="subTitile1-container">
+            <h2>Titulo2{text}</h2>
         </div>
      );
 }

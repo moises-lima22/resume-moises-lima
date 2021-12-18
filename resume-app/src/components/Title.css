@@ -13,9 +13,10 @@
   display: flex;
   justify-content: center;
   flex-flow: column;
-  width: 60%;
-  height: 200px;
   background-color: #999999;
   color: #fff;
 }
 
+h2,h3{
+  margin-left:50px ;
+}

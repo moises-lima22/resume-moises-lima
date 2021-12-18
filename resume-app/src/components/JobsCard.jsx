@@ -1,5 +1,5 @@
 import React from "react";
-import "./jobsCard.css";
+import "./JobsCard.css";
 
 
 const Jobs = ({jobs}) => {
